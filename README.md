@@ -1,6 +1,6 @@
 <div align="center">
     <img src="assets/logo.svg" width="400" height="400" alt="blueprint illustration">
-    <h1>Webhook</h1>
+    <h1>Slack Webhook</h1>
     <p>
         <b>Helper for making requests to <a href="https://api.slack.com/incoming-webhooks">Slack's Incoming Webhooks</a>. Deno port of <a href="https://www.npmjs.com/package/@slack/webhook">@slack/webhook</a></b>
     </p>
